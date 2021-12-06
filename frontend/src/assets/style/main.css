@@ -1,0 +1,138 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+/*MAIN STORE */
+
+
+/*Toys List */
+/* .store-container .store-list-container .store-list-main {
+    grid-template-columns: repeat(auto-fill,minmax(225px,1fr));
+    grid-auto-rows: 1fr;
+    gap:20px;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    border-left: 2px solid #ddd;
+}
+
+.store-list-main {
+    list-style: none;
+    text-decoration: none;
+}
+
+.store-container .store-list-container .store-list-main .toy-list {
+    height: 100%;
+    padding: 20px;
+    position: relative;
+}
+
+
+
+.store-container .store-list-container .store-list-main .toy-list .list-btns {
+    justify-content: space-between;
+}
+
+.store-container .store-list-container .store-list-main .toy-list .list-btns a , button {
+    text-decoration: none;
+    font-size: 1rem;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.store-container .store-list-container .store-list-main .toy-list .list-btns a:first-of-type {
+    background-color:#FF9900 ;
+}
+.store-container .store-list-container .store-list-main .toy-list .list-btns a:last-of-type {
+    background-color:#00A699 ;
+}
+.store-container .store-list-container .store-list-main .toy-list .list-btns button {
+    background-color:#FF5A5F ;
+} */
+
+/*Toy Preview */
+/* .toy-preview {
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+}
+
+.store-container .store-list-container .store-list-main .toy-list .toy-preview .preview-img {
+    height: 90%;
+}
+
+.store-container .store-list-container .store-list-main .toy-list .toy-preview .toy-card {
+    flex-direction: column;   
+    height: 100%;
+} */
+
+/* Toy Edit*/
+
+/* .toy-edit {
+    background-color: blanchedalmond;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
+
+.toy-edit-main {
+    flex-direction: column;
+}
+
+.toy-edit-main > * {
+    margin-block-end:15px ;
+} */
+
+
+/*Toy details */
+/* .toy-details {
+    background-color: blanchedalmond;
+    padding: 30px;
+}
+
+.toy-details .toy-main-details-left {
+    width: 400%;
+}
+.toy-details .toy-main-details-right {
+    padding: 10px;
+}
+
+.toy-details .toy-main-details-left > * {
+    margin-block-start: 35px;
+} */
+
+
+/*Toy Filter*/
+
+
+
+
+/* NavBar*/
+
+
+/*Pagination */
+/* 
+.dashboard-container .dashboard-details {
+} */
+
+/* HELPERS*/
+
+/* .flex {
+    display: flex;
+}
+
+.grid {
+    display: grid;
+} */
+

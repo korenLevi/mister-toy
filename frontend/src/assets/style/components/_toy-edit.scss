@@ -1,0 +1,17 @@
+.toy-edit {
+    background-color: blanchedalmond;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+
+
+}
+
+.toy-edit-main {
+    flex-direction: column;
+
+    * > {
+        margin-block-end:15px ;
+
+    }
+}

@@ -1,0 +1,15 @@
+.toy-preview {
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+
+    .preview-img {
+        height: 90%;
+    }
+
+    .toy-card {
+        flex-direction: column;   
+        height: 100%;
+    }
+}

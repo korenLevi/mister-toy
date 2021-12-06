@@ -1,0 +1,16 @@
+.toy-details {
+    background-color: blanchedalmond;
+    padding: 30px;
+
+    .toy-main-details-left {
+        width: 400%;
+
+        * > {
+            margin-block-start: 35px;
+        }
+    }
+    .toy-main-details-right {
+        padding: 10px;
+
+    }
+}

@@ -1,0 +1,77 @@
+
+
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+}
+
+#nav {
+  padding: 30px;
+}
+
+#nav a {
+  font-weight: bold;
+  color: #2c3e50;
+}
+
+#nav a.router-link-exact-active {
+  color: #42b983;
+}
+
+/* .toy-app {
+height: 500px;
+} */
+
+.toy-list {
+  display: flex;
+  gap: 25px;
+  padding: 25px;  
+  justify-content: center;
+  flex-wrap: wrap;
+  flex-grow: 1;
+}
+.toy-preview {
+  display: flex;
+  list-style-type: none;
+  min-width: 250px;
+  min-height: 250px;
+  flex-direction: column;
+  justify-content: space-between;
+  /* gap: 50px;
+  padding: 25px; */
+  background-color: #42b983;
+}
+ul{
+  display: flex;
+}
+.toy-edit-container {
+  display: flex;
+  justify-content: space-between;
+  /* height: 70vh; */
+  flex-direction: column;
+}
+.toy-edit{
+  display: flex;
+  list-style-type: none;
+  min-width: 250px;
+  min-height: 250px;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+.toy-edit img {
+  height:250px;
+  width: 250px;
+}
+.chart {
+  width: 30%;
+  margin: 0 auto;
+}
+.toy-edit-container .edit-form {
+ display: flex;
+ justify-content: space-around;
+ margin-right: 15px;
+}
